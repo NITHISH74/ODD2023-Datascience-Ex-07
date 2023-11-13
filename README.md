@@ -96,14 +96,6 @@ print("R-squared (R2) Score: ", r2)
 ```
 ## OUPUT:
 
-### Initial data
-![ds1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/0c7ea6a1-3af6-4da3-a768-45d8bf28b5b5)
-### Null values
-![ds2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/ba019ad1-e3e9-4860-9abf-4b339cdf8c0e)
-### Describing the data
-![ds3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/c7d497e8-6bb5-484f-bfb7-79839fd2160c)
-### Missing values
-![ds4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/3e17a08d-37e3-4a83-b50e-75deee9921ff)
 ### Data after cleaning
 ![ds5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/64aaedae-1f96-4494-a37f-611c7105e046)
 ### Data on Heatmap
