@@ -1,26 +1,26 @@
 # Ex-07-Feature-Selection
-## AIM
+## AIM:
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
-## Explanation
+## Explanation:
 Feature selection is to find the best set of features that allows one to build useful models.
 Selecting the best features helps the model to perform well. 
 
-## ALGORITHM
-### STEP 1
-Read the given Data
-### STEP 2
-Clean the Data Set using Data Cleaning Process
-### STEP 3
-Apply Feature selection techniques to all the features of the data set
-### STEP 4
-Save the data to the file
+## ALGORITHM:
+### STEP 1:
+Read the given Data.
+### STEP 2:
+Clean the Data Set using Data Cleaning Process.
+### STEP 3:
+Apply Feature selection techniques to all the features of the data set.
+### STEP 4:
+Save the data to the file.
 
-## CODE
-#### DEVELOPED BY: NITHISHWAR S
-#### Register no:212221230071
+## CODE:
+### DEVELOPED BY: NITHISHWAR S
+### Register no: 212221230071
 
-```
+```python
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -94,29 +94,29 @@ print("Random forest accuracy: ", accuracy)
 print("Mean Squared Error (MSE): ", mse)
 print("R-squared (R2) Score: ", r2)
 ```
-# OUPUT
+## OUPUT:
 
-#### Initial data
+### Initial data
 ![ds1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/0c7ea6a1-3af6-4da3-a768-45d8bf28b5b5)
-#### Null values
+### Null values
 ![ds2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/ba019ad1-e3e9-4860-9abf-4b339cdf8c0e)
-#### Describing the data
+### Describing the data
 ![ds3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/c7d497e8-6bb5-484f-bfb7-79839fd2160c)
-#### Missing values
+### Missing values
 ![ds4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/3e17a08d-37e3-4a83-b50e-75deee9921ff)
-#### Data after cleaning
+### Data after cleaning
 ![ds5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/64aaedae-1f96-4494-a37f-611c7105e046)
-#### Data on Heatmap
+### Data on Heatmap
 ![ds6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/37b4d771-c859-4301-90ac-8e5d395dd80b)
-#### Report of(people survied & died)
+### Report of(people survied & died)
 ![ds7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/d6057075-5667-4489-acd0-a69ab957f0b6)
-#### Cleaned null values
+### Cleaned null values
 ![ds8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/20ced343-c22b-42fd-b1e3-3d3452a6eb2c)
-#### Report of survied people's age
+### Report of survied people's age
 ![ds9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/a534944f-a851-49d0-9257-96de303b7ad0)
-#### Report of pessengers
+### Report of pessengers
 ![ds10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/5b0a25a5-d406-4f59-8db8-fa8174f104ae)
-#### Report
+### Report
 ![ds11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/38654355-ac3f-472a-85d2-8930ffc4a220)
 
 ## RESULT:
